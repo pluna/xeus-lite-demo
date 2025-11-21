@@ -5,3 +5,10 @@ channels:
 dependencies:
   - xeus-python
   - ipycanvas
+  - openai
+  - anthropic
+  - litellm
+  - sentence-transformers 
+  - rank-bm25 
+  - numpy
+
